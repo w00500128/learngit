@@ -1,1 +1,2 @@
-[A[A[A[B[B[Bnew append
+new append
+test changed in another computer
