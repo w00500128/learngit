@@ -1,1 +1,2 @@
-[A[A[A[B[B[Bnew append
+new append
+dev is not commited
