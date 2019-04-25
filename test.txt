@@ -1,1 +1,1 @@
-this is test.txt
+[A[A[A[B[B[Bnew append
