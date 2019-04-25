@@ -1,2 +1,2 @@
 new append
-test changed in another computer
+confilict in test.txt is solved
